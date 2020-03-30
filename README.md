@@ -1,4 +1,4 @@
-# pdf-to-txt-file
+# PDF to TXT file
 
 Convert raster PDFs to text files. Run this script in a folder and it will find and process all PDF files.
 
